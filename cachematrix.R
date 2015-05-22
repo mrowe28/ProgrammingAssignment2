@@ -1,5 +1,5 @@
 ## Together, these functions enable the user to compute, cache, and retrieve
-## the inverse of a matrix such that it must not be calculated repeatedly.    
+## the inverse of a matrix such that it need not be calculated repeatedly.    
 
 ## makeCacheMatrix takes an invertible matrix as an input and creates a list
 ## of functions that facilitate input, storage, and retrieval of the matrix  
